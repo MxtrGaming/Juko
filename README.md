@@ -1,2 +1,1 @@
-# YukoSiuko
 # Juko
